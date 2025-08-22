@@ -1,3 +1,1 @@
-# Oi oi
-
-In the arena 
+# Novice Data Wrestler  
